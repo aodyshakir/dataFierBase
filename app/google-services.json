@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "369735312844",
+    "firebase_url": "https://myapplication7-33757.firebaseio.com",
+    "project_id": "myapplication7-33757",
+    "storage_bucket": "myapplication7-33757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369735312844:android:11153f6f89eb216f",
+        "android_client_info": {
+          "package_name": "audy.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369735312844-2t0bqlv8okursv1hcnd3seg4jtj73136.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "audy.com.myapplication",
+            "certificate_hash": "f6cf77214eadbe648345740169ab309cb6ee88c1"
+          }
+        },
+        {
+          "client_id": "369735312844-nsp39dikujgve61np2rtdo0n6ovfdoac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4c5IcdFkZ23Q94JKNB3q9K0y6YhEOtmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369735312844-nsp39dikujgve61np2rtdo0n6ovfdoac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
